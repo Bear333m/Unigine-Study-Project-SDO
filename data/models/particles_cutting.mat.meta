@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>89180df216fa80d7be2ae911d0ccd2c03bbc7ec9</guid>
+	<type>material</type>
+	<hash>2bbb7075</hash>
+	<runtimes>
+		<runtime id="89180df216fa80d7be2ae911d0ccd2c03bbc7ec9" name="particles_cutting" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<track version="2.4" min_time="0" max_time="1" unit_time="1">
+	<parameter type="node.rotationXYZ" id="1517762029" name="Диск">
+		<keys_x>
+			<key time="0" type="1">-2.17712277e-05</key>
+			<key time="1" type="1">-2.17712277e-05</key>
+		</keys_x>
+		<keys_y>
+			<key time="0" type="1">0</key>
+			<key time="1" type="1">0</key>
+		</keys_y>
+		<keys_z>
+			<key time="0" type="1">-0</key>
+			<key time="1" type="1">720</key>
+		</keys_z>
+	</parameter>
+</track>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>c4cc2d427a968bd51bf6c14cbe12ae64d099c90d</guid>
+	<type>component</type>
+	<hash>6e15d8d4</hash>
+	<runtimes>
+		<runtime id="c4cc2d427a968bd51bf6c14cbe12ae64d099c90d" name="CameraCast.cs" link="0"/>
+		<runtime id="4c937590ab1b9f368940a10a0ece2516adb786e3" name="CameraCast.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

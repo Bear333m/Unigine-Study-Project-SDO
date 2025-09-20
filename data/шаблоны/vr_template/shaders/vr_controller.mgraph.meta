@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>c17f6d3e902982d9ed2d2ab54cbce9bf35047228</guid>
+	<type>material_graph</type>
+	<hash>231f068c</hash>
+	<runtimes>
+		<runtime id="c17f6d3e902982d9ed2d2ab54cbce9bf35047228" name="vr_controller.mgraph" link="0"/>
+		<runtime id="a9a2912b02fad15c8ca4b18853b6fbd0d8e2a148" name="vr_controller" link="1" type="5"/>
+	</runtimes>
+</asset>

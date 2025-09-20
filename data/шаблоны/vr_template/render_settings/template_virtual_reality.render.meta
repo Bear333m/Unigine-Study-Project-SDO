@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>7c12bb0d74a43f93f9bb07125136cf985b2227d2</guid>
+	<type>render_settings</type>
+	<hash>3919ea18</hash>
+	<runtimes>
+		<runtime id="7c12bb0d74a43f93f9bb07125136cf985b2227d2" name="template_virtual_reality.render" link="0"/>
+	</runtimes>
+</asset>

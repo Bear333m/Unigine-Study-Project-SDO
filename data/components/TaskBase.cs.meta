@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>7544664b88e220109a584d1c3309a31990207d84</guid>
+	<type>component</type>
+	<hash>8f0912fe</hash>
+	<runtimes>
+		<runtime id="7544664b88e220109a584d1c3309a31990207d84" name="TaskBase.cs" link="0"/>
+		<runtime id="bd4103b15a5c90ff98cb6c5a5703c7cdb860a302" name="TaskBase.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

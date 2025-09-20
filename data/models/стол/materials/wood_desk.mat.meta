@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>96c95788fe7680678848911530ce4fc741bd4023</guid>
+	<type>material</type>
+	<hash>b59a31c9</hash>
+	<runtimes>
+		<runtime id="96c95788fe7680678848911530ce4fc741bd4023" name="wood_desk" link="0" type="5"/>
+	</runtimes>
+</asset>

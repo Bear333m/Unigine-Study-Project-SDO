@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>5411fdf4795c10c3b7d47f46aac54ded21a55668</guid>
+	<type>component</type>
+	<hash>5b4abb34</hash>
+	<runtimes>
+		<runtime id="5411fdf4795c10c3b7d47f46aac54ded21a55668" name="Tracker.cs" link="0"/>
+		<runtime id="65c47ed0144043ef811aa082136ee5f9de02d704" name="Tracker.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

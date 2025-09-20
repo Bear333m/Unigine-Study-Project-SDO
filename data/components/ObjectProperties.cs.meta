@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d53351a29338592dc6241bd5c329fb6e55a5587e</guid>
+	<type>component</type>
+	<hash>6cb58ed7</hash>
+	<runtimes>
+		<runtime id="d53351a29338592dc6241bd5c329fb6e55a5587e" name="ObjectProperties.cs" link="0"/>
+		<runtime id="52accaf0440dea72d8edf4ab2e9c0da46994586c" name="ObjectProperties.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

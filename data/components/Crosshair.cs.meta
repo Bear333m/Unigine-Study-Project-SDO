@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>c01fdc2bef3486f77b1ef7ae24c0a9f9166caa03</guid>
+	<type>component</type>
+	<hash>880d8576</hash>
+	<runtimes>
+		<runtime id="c01fdc2bef3486f77b1ef7ae24c0a9f9166caa03" name="Crosshair.cs" link="0"/>
+		<runtime id="a9b1ce9184fecaff05353d1cd94551ccd196b3e9" name="Crosshair.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

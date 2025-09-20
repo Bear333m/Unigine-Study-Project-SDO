@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1e3c0ef854fcd54e8e8a4adc8d9cd19802325a71</guid>
+	<type>component</type>
+	<hash>b6ee123</hash>
+	<runtimes>
+		<runtime id="1e3c0ef854fcd54e8e8a4adc8d9cd19802325a71" name="TrackPlayback.cs" link="0"/>
+		<runtime id="ffeea9d63e6d3b347b52141a40884907670027a7" name="TrackPlayback.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

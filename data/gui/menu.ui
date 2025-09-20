@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ui version="1.0">
+    <vbox align="overlap,center" name="mainMenu" width="452" height="600">
+        <sprite name="background" align="overlap" pos_x="0" pos_y="0" width="452" height="600" texture="data/gui/background_menu.png"/>
+        <sprite name="diskWorld" align="overlap" width="333" height="95" pos_x="60" pos_y="44" scale_y="0.5" texcoord_w="0.5" texture="data/gui/button_service.png"/>
+        <sprite name="workWorld" align="overlap" width="333" height="95" pos_x="60" pos_y="183" scale_y="0.5" texcoord_w="0.5" texture="data/gui/button_work.png"/>
+        <sprite name="testing" align="overlap" width="333" height="95" pos_x="60" pos_y="322" scale_y="0.5" texcoord_w="0.5" texture="data/gui/button_test.png"/>
+        <sprite name="exit" align="overlap" width="333" height="95" pos_x="60" pos_y="461" scale_y="0.5" texcoord_w="0.5" texture="data/gui/button_exit.png"/>
+    </vbox>
+</ui>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>17edc90945c489af9f2aa0bea425cb10d541aefe</guid>
+	<type>material</type>
+	<hash>9c1563f4</hash>
+	<runtimes>
+		<runtime id="17edc90945c489af9f2aa0bea425cb10d541aefe" name="vr_post_filter_selection_0" link="0" type="5"/>
+	</runtimes>
+</asset>

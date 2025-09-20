@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6f3e5c7a3c5c31220bd09e5ae396b1ee07511d73</guid>
+	<type>component</type>
+	<hash>da6c4a26</hash>
+	<runtimes>
+		<runtime id="6f3e5c7a3c5c31220bd09e5ae396b1ee07511d73" name="HelpComponent.cs" link="0"/>
+		<runtime id="182a9008a4e3c1e3869026e8e12aaf86acc7c1d9" name="HelpComponent.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

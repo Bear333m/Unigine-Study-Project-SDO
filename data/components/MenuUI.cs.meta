@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>bcfc35a3560e32e580fac262363fea2af21c8d9a</guid>
+	<type>component</type>
+	<hash>5ff4e79</hash>
+	<runtimes>
+		<runtime id="bcfc35a3560e32e580fac262363fea2af21c8d9a" name="MenuUI.cs" link="0"/>
+		<runtime id="584c0949b02f968405468db0830ca8483a26da28" name="MenuUI.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

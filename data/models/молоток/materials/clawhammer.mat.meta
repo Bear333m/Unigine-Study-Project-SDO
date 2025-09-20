@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>4ab741b6a66b2062ecd052452589cce1c77b8d7f</guid>
+	<type>material</type>
+	<hash>700dda37</hash>
+	<runtimes>
+		<runtime id="4ab741b6a66b2062ecd052452589cce1c77b8d7f" name="clawhammer" link="0" type="5"/>
+	</runtimes>
+</asset>

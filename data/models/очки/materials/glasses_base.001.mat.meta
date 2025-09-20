@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>f3e8d3c5d013c6f6282acfc2dfbee795792a73c6</guid>
+	<type>material</type>
+	<hash>2c39c2b</hash>
+	<runtimes>
+		<runtime id="f3e8d3c5d013c6f6282acfc2dfbee795792a73c6" name="glasses_base.001" link="0" type="5"/>
+	</runtimes>
+</asset>

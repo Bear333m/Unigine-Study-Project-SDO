@@ -1,0 +1,54 @@
+# Build dirs
+bin
+obj
+junk
+utils
+lib
+
+# IDE
+.vs
+.vscode
+.idea
+/source/.vs
+
+# VS
+*.vcxproj.user
+*.VC.db
+*.opendb
+*.opensdf
+*.pro.user
+*.sdf
+*.suo
+*.aps
+*.tlog
+*.log
+
+# CMake
+CMakeCache.txt
+*.cache
+*.modified
+*.save
+*.save_
+quicksave.png
+
+# Source 
+source/x64
+source/**/*.obj
+*.obj
+
+# Data & Cache directories
+data/.thumbnails
+data/microprofile_dump_html
+data/guids.db
+data/*.cfg
+data/*.cfg.meta
+data/.runtimes
+data/.editor2
+data/.cache_textures
+data/*.*cache
+.cache_textures
+.thumbnails
+.runtimes
+
+# Configs
+unigine_editor.cfg

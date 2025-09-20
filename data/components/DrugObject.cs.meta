@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>05a05e3a1e0d81a7ea2da6d0508af41edfab9c90</guid>
+	<type>component</type>
+	<hash>aed37e56</hash>
+	<runtimes>
+		<runtime id="05a05e3a1e0d81a7ea2da6d0508af41edfab9c90" name="DrugObject.cs" link="0"/>
+		<runtime id="bd4a9bc86cabcddd485d63eee3a9334d32bf852e" name="DrugObject.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

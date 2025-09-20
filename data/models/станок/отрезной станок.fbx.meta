@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>f768d49e2314e739c18d2e034f052d1dacf63194</guid>
+	<type>fbx</type>
+	<hash>f225ab51</hash>
+	<runtimes>
+		<runtime id="f768d49e2314e739c18d2e034f052d1dacf63194" name="отрезной станок.fbx" link="0"/>
+		<runtime id="82490d4432a363013fe11e2b4d09f81bae6c9909" name="отрезной станок.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">1d02f882</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="32f823de2e9ce98404679a43336aabae4ecd4ed4" name="ass_mcm-main.020.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1a873428</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d023e416f8f9a904cf06f1556792581dbcf86c23" name="ass_mcm-main.067.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ddb16ed2</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7fd218409b67c111a4ab8b2d0503d0f15f8d6326" name="ass_mcm-main.104.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">f4ff4ed4</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="60cb533825ec969cc69d848fd27721b61ad4204d" name="ass_mcm-main.113.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0311c868</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a115bf7234500b53e905f22794db9cc445984548" name="ass_mcm-main.114.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7b0522d3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6547732a8a5f3aca578db65935927ba434cd2807" name="ass_mcm-main.108.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">923a99ff</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="3693b5f4aa9fa814b68a9db1b8690859917bc5ba" name="ass_mcm-main.105.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4771921b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2605106c07b4a64e2da68933ee0738013faa19d1" name="ass_mcm-main.135.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0a5bc5f8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9a6cec46247da5f9c84d004bdec450c6c3c488fc" name="ass_mcm-main.016.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2461da21</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="cfbccb7e1f4fa5c47281c39d500ff3d3dc9a502b" name="ass_mcm-main.007.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0beac5dc</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="eea2c6e86cc76faafce0d075287d7477c069278e" name="ass_mcm-main.134.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">11d05562</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="026f38e0bcfcf0374fb99017a8693780c4668995" name="ass_mcm-main.017.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">42660ae3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="bae43e5aa6a1a26c2c8ba8af59074e3e80024df0" name="ass_mcm-main.010.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">21da93df</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="367e0112d03b4a860ed71d216ece4080440a888f" name="ass_mcm-main.006.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3a5e070a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0adfff1ca23b6c05058fa779829301d13957dca2" name="ass_mcm-main.094.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">826a1f1</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9b2a00948b3b8578cba23d3b319a54ceb39fb399" name="ass_mcm-main.133.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">17874ca1</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">0</parameter>
+		<parameter type="bool" name="import_lights">0</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://367e0112d03b4a860ed71d216ece4080440a888f&quot;:{&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://cfbccb7e1f4fa5c47281c39d500ff3d3dc9a502b&quot;:{&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://bae43e5aa6a1a26c2c8ba8af59074e3e80024df0&quot;:{&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9a6cec46247da5f9c84d004bdec450c6c3c488fc&quot;:{&quot;Paint Black&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;РезиноваяЛента&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Палка&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Ручка&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Material.005&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://026f38e0bcfcf0374fb99017a8693780c4668995&quot;:{&quot;Paint Black&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://32f823de2e9ce98404679a43336aabae4ecd4ed4&quot;:{&quot;Провод&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d023e416f8f9a904cf06f1556792581dbcf86c23&quot;:{&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0adfff1ca23b6c05058fa779829301d13957dca2&quot;:{&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Провод&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;РезиноваяЛента&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Ручка&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7fd218409b67c111a4ab8b2d0503d0f15f8d6326&quot;:{&quot;Paint Black&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://3693b5f4aa9fa814b68a9db1b8690859917bc5ba&quot;:{&quot;Button On&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6547732a8a5f3aca578db65935927ba434cd2807&quot;:{&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://60cb533825ec969cc69d848fd27721b61ad4204d&quot;:{&quot;Провод&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a115bf7234500b53e905f22794db9cc445984548&quot;:{&quot;Провод&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9b2a00948b3b8578cba23d3b319a54ceb39fb399&quot;:{&quot;Paint Black&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Iron dark&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://eea2c6e86cc76faafce0d075287d7477c069278e&quot;:{&quot;Material.001&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2605106c07b4a64e2da68933ee0738013faa19d1&quot;:{&quot;Button Off&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">button off,bea16b540aa6ccd05cd598fb2c42c303229ea159,button on,0f1250a6dc4a1645cab948a5c1f8399c6e7ca8f3,iron dark,660437a02b94f15d1a0e6fd74e806086a87d3b55,iron light,5400b7ea5f02ae6bc2dda4192e260ec0b1dd87c7,material.001,cce71a0e290715c40e9d14eda7d2b93d69f626fb,material.005,5de3007c87e1da59d93dee03d8d636f3cced2c21,paint black,4890dc3e6967329844c50d5d176480cb7b06cbeb,Палка,ffcf88ba479f0e89ecd2e2a9f3c60b0721e349d7,Пила,fb997248d7dcb95776a00c5f78e139f7ce7b059d,Провод,1f97b9f832e3a2b46dd4ac4fcf597b3c6a3b9a0d,РезиноваяЛента,c75a632cd2c0395c6b50acf3c80c0677e3e24f91,Ручка,96819dd200fbb27b4d8b82e1a771724920e6e04f</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">0.25</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>
